@@ -1,24 +1,11 @@
-# Angular 13 Authentication with Firebase
 
-Learn to create full Firebase authentication system with Angular using AngularFire2 library.
-
-## Written Article
-[Full Angular 13 Firebase Authentication System](https://www.positronx.io/full-angular-firebase-authentication-system)
-
-
-- Sign in with Google
-- Sign in with username/password
-- Sign up with username/password
-- Recover forget password
-- Send verification mail to a newly created user
-- Prevent user to access app dashboard unless email is verified
-- Prevent user to access inner pages unless user is not logged In
-- Prevent user to access sign in and sign up components when a user is already logged in
-- Save user data to localstorage when user is logged in
-
-**If you love this project then show your love by simply sharing this repo with others and don't forget to put a GitHub star ⭐ ! Thanks** :pray:
-
-
+## A Solution for Food Inventory and Reduce Wastage
+A Food Waste Management System web application that contains:
+The inventory system to keep track of the grocery items.
+The Expiration date alerts to ensure that food is used before it spoils.
+The wastage tracking system to keep track of the remaining(wastage) food.
+The system also facilitates the donation of excess food to charities, reducing waste and
+helping to feed those in need.
 
 ## Installation Process
 Run `npm install` to install all the required dependencies
